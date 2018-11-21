@@ -11,9 +11,9 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" media="all" href="CSS/style.css">
     </head>
     <body>
-        <div class="key">  </div>
-        <?php
+        <div class="key"> <?php
         echo 'Salut le monde ! Ceci est un petit test!';
-        ?>
+        ?> </div>
+        
     </body>
 </html>
